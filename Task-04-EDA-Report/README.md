@@ -1,0 +1,1 @@
+Conducted Exploratory Data Analysis (EDA) on a marketing campaign dataset. Analyzed ROI, conversion rates, and acquisition costs using Power BI and provided actionable business recommendations for optimizing marketing strategies.
