@@ -1,0 +1,1 @@
+Performed data cleaning and preprocessing using Python (Pandas). Handled missing values, removed duplicates, transformed data types, and prepared the dataset for analysis by exporting a clean CSV file.
