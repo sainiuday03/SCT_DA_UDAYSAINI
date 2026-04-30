@@ -1,0 +1,1 @@
+Developed an interactive dashboard using Power BI to analyze HR employee attrition. Visualized key metrics such as attrition by department and age group, and implemented slicers for dynamic data filtering.
