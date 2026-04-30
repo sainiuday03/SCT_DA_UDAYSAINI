@@ -1,0 +1,1 @@
+Created an interactive sales dashboard using Microsoft Excel based on the Superstore dataset. Utilized Pivot Tables, charts, and conditional formatting to analyze total sales, profit by category, and sales trends over time, highlighting high and low performers.
